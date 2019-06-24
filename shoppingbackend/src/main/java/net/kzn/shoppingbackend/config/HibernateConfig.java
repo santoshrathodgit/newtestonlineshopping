@@ -27,6 +27,11 @@ public class HibernateConfig {
 	private final static String DATABASE_PASSWORD = "password";
 	
 	
+//	admin uname : vk@gmail.com 
+//		  pwd : admin
+//    user  uname : kn@gmail.com
+//    	  pwd : 12345
+	
 	 
 	// dataSource bean will be available
 	@Bean("dataSource")
